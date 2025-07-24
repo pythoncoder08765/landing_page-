@@ -18,6 +18,7 @@ This project is ideal for beginners learning to structure web pages and style th
 🖼️ Screenshot
 
 <img width="1261" height="739" alt="Screenshot 2025-07-24 141514" src="https://github.com/user-attachments/assets/eccf372d-2810-4634-b141-0cd61c8b50b7" />
+live link  https://pythoncoder08765.github.io/landing_page-/
 
 📁 Folder Structure
 css
